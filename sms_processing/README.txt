@@ -1,3 +1,5 @@
+- Requires python-imaplib installed
+
 - Crediential file must be of this format:
   Username Password
 
